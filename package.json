@@ -9,6 +9,7 @@
   "author": "herdin",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "express": "^4.18.1",
     "nodemon": "^2.0.16"
   }
